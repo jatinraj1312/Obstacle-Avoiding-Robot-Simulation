@@ -3,4 +3,4 @@ This Arduino-based project simulates a basic autonomous robot in Tinkercad using
 
 #Circuit Diagram
 ![image alt](https://github.com/jatinraj1312/Obstacle-Avoiding-Robot-Simulation/blob/main/Screenshot%20(79).png?raw=true)
-![image Alt](
+![image Alt](https://github.com/jatinraj1312/Obstacle-Avoiding-Robot-Simulation/blob/main/Screenshot%20(80).png?raw=true)
